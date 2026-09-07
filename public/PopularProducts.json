@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Wireless Headphones",
+    "price": 59.99,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
+  },
+  {
+    "title": "Smart Watch",
+    "price": 89.99,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30"
+  },
+  {
+    "title": "Gaming Mouse",
+    "price": 39.99,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db"
+  },
+  {
+    "title": "Mechanical Keyboard",
+    "price": 74.99,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+  },
+  {
+    "title": "USB-C Charger",
+    "price": 24.99,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0"
+  }
+]

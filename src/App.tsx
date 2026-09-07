@@ -1,6 +1,7 @@
 import "./App.css";
 import HeroSection from "./components/HeroSection";
 import Navber from "./components/Navber";
+import PopularProducts from "./components/PopularProducts";
 import ServicesSection from "./components/ServicesSection";
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
       <Navber></Navber>
       <HeroSection></HeroSection>
       <ServicesSection></ServicesSection>
+      <PopularProducts></PopularProducts>
     </>
   );
 }
