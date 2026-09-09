@@ -16,7 +16,6 @@ const PopularProducts = () => {
               </p>
               <button className="bg-white px-5 py-2 rounded">Buy Now</button>
             </div>
-
             <div className="col-span-8 bg-amber-600"></div>
           </div>
         </div>
