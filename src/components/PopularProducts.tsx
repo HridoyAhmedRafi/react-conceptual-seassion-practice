@@ -9,7 +9,6 @@ const PopularProducts = () => {
 
           <div className="grid grid-cols-12 gap-5 ">
             <div className="col-span-4 bg-amber-300 px-5 py-5 space-y-2">
-            
               <h1 className="text-white font-bold text-[30px]">30% off</h1>
               <p>
                 Discover a world of treats, toys, and essentials handpicked for
